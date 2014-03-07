@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">HangulFilteredArrayAdapter</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <!--  search -->
+    <string name="search_hint">검색</string>
+    <string name="action_search">Search</string>
+</resources>
